@@ -1,0 +1,5 @@
+,point,contextual,collective,corr_break
+IsolationForest,0.066,0.124,0.273,0.291
+OneClassSVM,0.996,0.775,0.67,0.767
+Autoencoder,1.0,0.78,0.599,0.81
+WeightedEnsemble,0.896,0.777,0.591,0.781

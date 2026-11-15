@@ -1,0 +1,5 @@
+model,precision,recall,f1,pr_auc,fit_sec
+IsolationForest,0.659,0.208,0.316,0.437,1.989
+OneClassSVM,0.91,0.786,0.843,0.866,1.05
+Autoencoder,0.919,0.775,0.841,0.839,20.778
+WeightedEnsemble,0.907,0.74,0.815,0.843,
